@@ -1,0 +1,4 @@
+// Pour cours
+// le v-if est une directive
+// import/export
+// directive v for/v if/v else, dupliquer l'élément html autant de fois que l'on veut

@@ -7,7 +7,7 @@ export const records = [
         "stock"    : 0,
         "pitchforkPos"   : 28,
         "comment"      : "FKA twigs is already so fully developed as an artist that her voice—wispy, breathy, disarmingly operatic—can sometimes be overshadowed by her astonishing performances. They function as demonstrations of her dancer’s command of her body, living art installations, and full-spectrum auditory experience—together, something like live 4DX",
-        "coverUrl" : 'https://media.pitchfork.com/photos/5d7a863e0db1d10008f20007/master/w_1600%2Cc_limit/FKA-twigs-Two-Weeks.jpeg'
+        "coverUrl" : 'https://media.pitchfork.com/photos/5d7a863e0db1d10008f20007/master/w_1600%2Cc_limit/FKA-twigs-Two-Weeks.jpeg',
     },
     {
         "id"             : 1,
@@ -17,7 +17,7 @@ export const records = [
         "stock"          :2,
         "pitchforkPos"   :25,
         "comment"        : "Hearing In Colour feels like listening to the dissection of a heartbeat—skittering anxieties mirrored in the snares, the warm glow of love reflected in steel drums, camaraderie sampled via musical voices of the past.",
-        "coverUrl"       :'https://media.pitchfork.com/photos/5d7bf74a6eee70000829f8c6/master/w_1600%2Cc_limit/Jamie-xx-In-Colour.jpg'
+        "coverUrl"       :'https://media.pitchfork.com/photos/5d7bf74a6eee70000829f8c6/master/w_1600%2Cc_limit/Jamie-xx-In-Colour.jpg',
     },
     {
         "id"             : 2,
